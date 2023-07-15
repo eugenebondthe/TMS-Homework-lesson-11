@@ -1,0 +1,22 @@
+{
+  "name": "tms-homework-lesson-11",
+  "version": "1.0.0",
+  "description": "Home task for lesson 11",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx ts-node hw-11.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugenebondthe/TMS-Homework-lesson-11.git"
+  },
+  "author": "Eugene Bondarenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eugenebondthe/TMS-Homework-lesson-11/issues"
+  },
+  "homepage": "https://github.com/eugenebondthe/TMS-Homework-lesson-11#readme",
+  "devDependencies": {
+    "@types/whatwg-fetch": "^0.0.33"
+  }
+}
